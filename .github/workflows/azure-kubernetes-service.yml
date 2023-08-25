@@ -36,7 +36,7 @@ on:
 
 env:
   AZURE_CONTAINER_REGISTRY: "CRUDAPI"
-  CONTAINER_NAME: "crudapicontainer"
+  CONTAINER_NAME: "repository"
   RESOURCE_GROUP: "CRUDAPI"
   CLUSTER_NAME: "crudapi"
   DEPLOYMENT_MANIFEST_PATH: ".github/workflows/docker-image.yml"
